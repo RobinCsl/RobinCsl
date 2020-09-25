@@ -2,7 +2,7 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:blog-feed-->
-<!--END_SECTION:blogfeed-->
+<!--END_SECTION:blog-feed-->
 
 <!--
 **RobinCsl/RobinCsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
