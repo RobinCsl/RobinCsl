@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 📙 Blog Posts
+### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
 <!--END_SECTION:blog-feed-->
 
