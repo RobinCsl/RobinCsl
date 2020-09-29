@@ -1,11 +1,9 @@
 name: Update README with blog entries
 
 on:
-  push:
-    branches: [master]
-  #schedule:
-  #  # Once a day at 8 AM
-  #  - cron: 0 8 * * *
+  schedule:
+   # Once a day at 8 AM
+   - cron: 0 8 * * *
 
 jobs:
   update:
