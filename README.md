@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [How to Test Your ESLint Config](https:&#x2F;&#x2F;robincussol.com&#x2F;how-to-test-your-eslint-config&#x2F;) 
+*We all know testing is something we should do to make our future selves happy. The continuous integration system checks all the things we…*
 #### [Get Your Own Sentry Playground](https:&#x2F;&#x2F;robincussol.com&#x2F;get-your-own-sentry-playground&#x2F;) 
 *Sentry is an amazing tool for error tracking and monitoring. You install the SDK in your codebase, configure it, and *tada*, all your…*
 #### [5 Tips to Start Blogging (for Devs)](https:&#x2F;&#x2F;robincussol.com&#x2F;5-tips-to-start-blogging-for-devs&#x2F;) 
@@ -20,8 +22,6 @@
 *As promised in my Hello World article and to celebrate my PhD defence anniversary, you will find below an account of my journey from PhD to…*
 #### [Fathom is watching you](https:&#x2F;&#x2F;robincussol.com&#x2F;fathom-is-watching-you&#x2F;) 
 *After a very succesful launch (okay, maybe that’s a bit of an overstatement…), I realised I had no idea how many people actually visited my…*
-#### [Hello World](https:&#x2F;&#x2F;robincussol.com&#x2F;hello-world&#x2F;) 
-*This is my first post on my new blog! How exciting! I have already written this year, though: my first Medium article was released last…*
 <!--END_SECTION:blog-feed-->
 
 <!--
