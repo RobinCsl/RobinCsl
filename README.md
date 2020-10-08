@@ -2,6 +2,10 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [The Craft of Writing Effectively, a summary](https:&#x2F;&#x2F;robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;) 
+*There is a pervasive idea about writing which was largely imparted through our education: from school essays and dissertations, all the way…*
+#### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
+*Disclaimer: these are rough notes about the video LEADERSHIP LAB: The Craft of Writing Effectively and all the credit is due to Larry…*
 #### [How to Test Your ESLint Config](https:&#x2F;&#x2F;robincussol.com&#x2F;how-to-test-your-eslint-config&#x2F;) 
 *We all know testing is something we should do to make our future selves happy. The continuous integration system checks all the things we…*
 #### [Get Your Own Sentry Playground](https:&#x2F;&#x2F;robincussol.com&#x2F;get-your-own-sentry-playground&#x2F;) 
@@ -18,10 +22,6 @@
 *This article is part of a series exploring the maths behind Bitcoin and it will not mention any cryptography, any cryptocurrency or anything…*
 #### [The Maths Behind Bitcoin: Series Announced](https:&#x2F;&#x2F;robincussol.com&#x2F;the-maths-behind-bitcoin&#x2F;series-announced-1-6&#x2F;) 
 *You have all heard of this new form of money, these so-called cryptocurrencies. To my surprise, after I finished my maths PhD, I realised…*
-#### [How I went from PhD to JavaScript developer](https:&#x2F;&#x2F;robincussol.com&#x2F;how-i-went-from-phd-to-javascript-developer&#x2F;) 
-*As promised in my Hello World article and to celebrate my PhD defence anniversary, you will find below an account of my journey from PhD to…*
-#### [Fathom is watching you](https:&#x2F;&#x2F;robincussol.com&#x2F;fathom-is-watching-you&#x2F;) 
-*After a very succesful launch (okay, maybe that’s a bit of an overstatement…), I realised I had no idea how many people actually visited my…*
 <!--END_SECTION:blog-feed-->
 
 <!--
