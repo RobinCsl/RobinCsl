@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [A Successful Side-Project: Lessons from Swyx](https:&#x2F;&#x2F;robincussol.com&#x2F;a-successful-side-project-lessons-from-swyx&#x2F;) 
+*If you are on Twitter, chances are you came across this tweet by Daniel Vassallo and it now seems everyone is writing a book! 😄 Shawn Wang…*
 #### [The Craft of Writing Effectively, a summary](https:&#x2F;&#x2F;robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;) 
 *There is a pervasive idea about writing which was largely imparted through our education: from school essays and dissertations, all the way…*
 #### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
@@ -20,8 +22,6 @@
 *A great way to start writing React Native applications is to use Expo. You don’t even need to setup a development environment to get started…*
 #### [The Maths Behind Bitcoin: Let&#39;s get geometrical](https:&#x2F;&#x2F;robincussol.com&#x2F;the-maths-behind-bitcoin&#x2F;lets-get-geometrical-2-6&#x2F;) 
 *This article is part of a series exploring the maths behind Bitcoin and it will not mention any cryptography, any cryptocurrency or anything…*
-#### [The Maths Behind Bitcoin: Series Announced](https:&#x2F;&#x2F;robincussol.com&#x2F;the-maths-behind-bitcoin&#x2F;series-announced-1-6&#x2F;) 
-*You have all heard of this new form of money, these so-called cryptocurrencies. To my surprise, after I finished my maths PhD, I realised…*
 <!--END_SECTION:blog-feed-->
 
 <!--
