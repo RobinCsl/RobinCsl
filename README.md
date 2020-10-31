@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Wax on, Wax off](https:&#x2F;&#x2F;robincussol.com&#x2F;wax-on-wax-off&#x2F;) 
+*The reason I got into web development in the first place was the magical ✨ feeling you get when you see your code manifest in the browser…*
 #### [A Successful Side-Project: Lessons from Swyx](https:&#x2F;&#x2F;robincussol.com&#x2F;a-successful-side-project-lessons-from-swyx&#x2F;) 
 *If you are on Twitter, chances are you came across this tweet by Daniel Vassallo and it now seems everyone is writing a book! 😄 Shawn Wang…*
 #### [The Craft of Writing Effectively, a summary](https:&#x2F;&#x2F;robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;) 
@@ -20,8 +22,6 @@
 *What happens when you mix a bit of Tequila with Expo and Next.js? You obtain a nice Margarita, a subtle cocktail of cross-platform goodness…*
 #### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;2019-03-12&#x2F;) 
 *A great way to start writing React Native applications is to use Expo. You don’t even need to setup a development environment to get started…*
-#### [The Maths Behind Bitcoin: Let&#39;s get geometrical](https:&#x2F;&#x2F;robincussol.com&#x2F;the-maths-behind-bitcoin&#x2F;lets-get-geometrical-2-6&#x2F;) 
-*This article is part of a series exploring the maths behind Bitcoin and it will not mention any cryptography, any cryptocurrency or anything…*
 <!--END_SECTION:blog-feed-->
 
 <!--
