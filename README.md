@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [TypeScript Tidbit: How to Overload an Imported Function](https:&#x2F;&#x2F;robincussol.com&#x2F;typescript-tidbit-how-to-overload-an-imported-function&#x2F;) 
+*There are times when the type definitions shipped on DefinitelyTyped are not enough and this results in making the TypeScript compiler…*
 #### [Wax on, Wax off](https:&#x2F;&#x2F;robincussol.com&#x2F;wax-on-wax-off&#x2F;) 
 *The reason I got into web development in the first place was the magical ✨ feeling you get when you see your code manifest in the browser…*
 #### [A Successful Side-Project: Lessons from Swyx](https:&#x2F;&#x2F;robincussol.com&#x2F;a-successful-side-project-lessons-from-swyx&#x2F;) 
@@ -20,8 +22,6 @@
 *This article was updated on January 08, 2020. The previous version from March 12, 2019 is still available. A great way to start writing…*
 #### [Tequila-powered X-Platform development with Expo](https:&#x2F;&#x2F;robincussol.com&#x2F;tequila-powered-cross-platform-development-with-expo&#x2F;) 
 *What happens when you mix a bit of Tequila with Expo and Next.js? You obtain a nice Margarita, a subtle cocktail of cross-platform goodness…*
-#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;2019-03-12&#x2F;) 
-*A great way to start writing React Native applications is to use Expo. You don’t even need to setup a development environment to get started…*
 <!--END_SECTION:blog-feed-->
 
 <!--
