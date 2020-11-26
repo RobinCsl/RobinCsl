@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Docker for JavaScript Devs: How to Containerise Node.js Apps Efficiently](https:&#x2F;&#x2F;robincussol.com&#x2F;docker-for-js-devs-how-to-containerise-nodejs-apps-efficiently&#x2F;) 
+*Docker is a really cool technology to have applications run the in the same, predictable context, ensuring the “but it works on my machine…*
 #### [TypeScript Tidbit: How to Overload an Imported Function](https:&#x2F;&#x2F;robincussol.com&#x2F;typescript-tidbit-how-to-overload-an-imported-function&#x2F;) 
 *There are times when the type definitions shipped on DefinitelyTyped are not enough and this results in making the TypeScript compiler…*
 #### [Wax on, Wax off](https:&#x2F;&#x2F;robincussol.com&#x2F;wax-on-wax-off&#x2F;) 
@@ -20,8 +22,6 @@
 *Have you ever had this itch to start writing a blog? You’re a developer. You’ve just spent 2 days, 3 hours and 44 minutes (thank you time…*
 #### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
 *This article was updated on January 08, 2020. The previous version from March 12, 2019 is still available. A great way to start writing…*
-#### [Tequila-powered X-Platform development with Expo](https:&#x2F;&#x2F;robincussol.com&#x2F;tequila-powered-cross-platform-development-with-expo&#x2F;) 
-*What happens when you mix a bit of Tequila with Expo and Next.js? You obtain a nice Margarita, a subtle cocktail of cross-platform goodness…*
 <!--END_SECTION:blog-feed-->
 
 <!--
