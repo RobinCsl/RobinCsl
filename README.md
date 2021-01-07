@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Year in Review: 2020](https:&#x2F;&#x2F;robincussol.com&#x2F;year-in-review-2020&#x2F;) 
+*2020, what a ride! I cannot believe 2020 has already finally come to an end: with the lockdowns and quarantines, time simultaneously flew by…*
 #### [Docker for JavaScript Devs: How to Containerise Node.js Apps Efficiently](https:&#x2F;&#x2F;robincussol.com&#x2F;docker-for-js-devs-how-to-containerise-nodejs-apps-efficiently&#x2F;) 
 *Docker is a really cool technology to have applications run the in the same, predictable context, ensuring the “but it works on my machine…*
 #### [TypeScript Tidbit: How to Overload an Imported Function](https:&#x2F;&#x2F;robincussol.com&#x2F;typescript-tidbit-how-to-overload-an-imported-function&#x2F;) 
@@ -20,8 +22,6 @@
 *Sentry is an amazing tool for error tracking and monitoring. You install the SDK in your codebase, configure it, and *tada*, all your…*
 #### [5 Tips to Start Blogging (for Devs)](https:&#x2F;&#x2F;robincussol.com&#x2F;5-tips-to-start-blogging-for-devs&#x2F;) 
 *Have you ever had this itch to start writing a blog? You’re a developer. You’ve just spent 2 days, 3 hours and 44 minutes (thank you time…*
-#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
-*This article was updated on January 08, 2020. The previous version from March 12, 2019 is still available. A great way to start writing…*
 <!--END_SECTION:blog-feed-->
 
 <!--
