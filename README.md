@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
+*This article was updated on February 05, 2021. A great way to start writing React Native applications is to use Expo. You don’t even need to…*
 #### [Year in Review: 2020](https:&#x2F;&#x2F;robincussol.com&#x2F;year-in-review-2020&#x2F;) 
 *2020, what a ride! I cannot believe 2020 has already finally come to an end: with the lockdowns and quarantines, time simultaneously flew by…*
 #### [Docker for JavaScript Devs: How to Containerise Node.js Apps Efficiently](https:&#x2F;&#x2F;robincussol.com&#x2F;docker-for-js-devs-how-to-containerise-nodejs-apps-efficiently&#x2F;) 
@@ -20,8 +22,6 @@
 *We all know testing is something we should do to make our future selves happy. The continuous integration system checks all the things we…*
 #### [Get Your Own Sentry Playground](https:&#x2F;&#x2F;robincussol.com&#x2F;get-your-own-sentry-playground&#x2F;) 
 *Sentry is an amazing tool for error tracking and monitoring. You install the SDK in your codebase, configure it, and *tada*, all your…*
-#### [5 Tips to Start Blogging (for Devs)](https:&#x2F;&#x2F;robincussol.com&#x2F;5-tips-to-start-blogging-for-devs&#x2F;) 
-*Have you ever had this itch to start writing a blog? You’re a developer. You’ve just spent 2 days, 3 hours and 44 minutes (thank you time…*
 <!--END_SECTION:blog-feed-->
 
 <!--
