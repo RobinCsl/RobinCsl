@@ -18,10 +18,10 @@
 *The reason I got into web development in the first place was the magical ✨ feeling you get when you see your code manifest in the browser…*
 #### [A Successful Side-Project: Lessons from Swyx](https:&#x2F;&#x2F;www.robincussol.com&#x2F;a-successful-side-project-lessons-from-swyx&#x2F;) 
 *If you are on Twitter, chances are you came across this tweet by Daniel Vassallo and it now seems everyone is writing a book! 😄 Shawn Wang…*
-#### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
-*Disclaimer: these are rough notes about the video LEADERSHIP LAB: The Craft of Writing Effectively and all the credit is due to Larry…*
 #### [The Craft of Writing Effectively, a summary](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;) 
 *There is a pervasive idea about writing which was largely imparted through our education: from school essays and dissertations, all the way…*
+#### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
+*Disclaimer: these are rough notes about the video LEADERSHIP LAB: The Craft of Writing Effectively and all the credit is due to Larry…*
 <!--END_SECTION:blog-feed-->
 
 <!--
