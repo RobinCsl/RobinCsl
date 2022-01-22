@@ -2,12 +2,12 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
+*This article was updated on January 21, 2022. A great way to start writing React Native applications is to use Expo. You don’t even need to…*
 #### [Python Dependencies for JavaScript Developers](https:&#x2F;&#x2F;www.robincussol.com&#x2F;python-dependencies-for-javascript-developers&#x2F;) 
 *Recently, I needed to update an old Python codebase which had not been touched in 3 years! Of course, the dependencies were so outdated that…*
 #### [How to Download a Brain with Pair Documenting](https:&#x2F;&#x2F;www.robincussol.com&#x2F;download-a-brain-with-pair-documenting&#x2F;) 
 *When people leave the company, a lot of specific and ad hoc knowledge goes away with them. Unless there is already a strong documentation…*
-#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
-*This article was updated on February 05, 2021. A great way to start writing React Native applications is to use Expo. You don’t even need to…*
 #### [Year in Review: 2020](https:&#x2F;&#x2F;www.robincussol.com&#x2F;year-in-review-2020&#x2F;) 
 *2020, what a ride! I cannot believe 2020 has already finally come to an end: with the lockdowns and quarantines, time simultaneously flew by…*
 #### [Docker for JavaScript Devs: How to Containerise Node.js Apps Efficiently](https:&#x2F;&#x2F;www.robincussol.com&#x2F;docker-for-js-devs-how-to-containerise-nodejs-apps-efficiently&#x2F;) 
