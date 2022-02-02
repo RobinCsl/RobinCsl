@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Year in Review: 2021](https:&#x2F;&#x2F;www.robincussol.com&#x2F;year-in-review-2021&#x2F;) 
+*We’re already at the start of February 2022, but who says retrospectives need to be done on January 1st?! A lot of things happened in 202…*
 #### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
 *This article was updated on January 21, 2022. A great way to start writing React Native applications is to use Expo. You don’t even need to…*
 #### [Python Dependencies for JavaScript Developers](https:&#x2F;&#x2F;www.robincussol.com&#x2F;python-dependencies-for-javascript-developers&#x2F;) 
@@ -20,8 +22,6 @@
 *If you are on Twitter, chances are you came across this tweet by Daniel Vassallo and it now seems everyone is writing a book! 😄 Shawn Wang…*
 #### [The Craft of Writing Effectively, a summary](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;) 
 *There is a pervasive idea about writing which was largely imparted through our education: from school essays and dissertations, all the way…*
-#### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
-*Disclaimer: these are rough notes about the video LEADERSHIP LAB: The Craft of Writing Effectively and all the credit is due to Larry…*
 <!--END_SECTION:blog-feed-->
 
 <!--
