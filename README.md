@@ -2,6 +2,8 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Optimize your img tags with Eleventy Image and WebC](https:&#x2F;&#x2F;www.robincussol.com&#x2F;optimize-your-img-tags-with-eleventy-image-and-webc&#x2F;) 
+*I am very excited about WebC and couldn’t wait to try out the corresponding Eleventy plugin. The first use-case I had in mind was to use…*
 #### [Year in Review: 2021](https:&#x2F;&#x2F;www.robincussol.com&#x2F;year-in-review-2021&#x2F;) 
 *We’re already at the start of February 2022, but who says retrospectives need to be done on January 1st?! A lot of things happened in 202…*
 #### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
@@ -20,8 +22,6 @@
 *The reason I got into web development in the first place was the magical ✨ feeling you get when you see your code manifest in the browser…*
 #### [A Successful Side-Project: Lessons from Swyx](https:&#x2F;&#x2F;www.robincussol.com&#x2F;a-successful-side-project-lessons-from-swyx&#x2F;) 
 *If you are on Twitter, chances are you came across this tweet by Daniel Vassallo and it now seems everyone is writing a book! 😄 Shawn Wang…*
-#### [The Craft of Writing Effectively, rough notes](https:&#x2F;&#x2F;www.robincussol.com&#x2F;the-craft-of-writing-effectively-summary&#x2F;rough-notes&#x2F;) 
-*Disclaimer: these are rough notes about the video LEADERSHIP LAB: The Craft of Writing Effectively and all the credit is due to Larry…*
 <!--END_SECTION:blog-feed-->
 
 <!--
