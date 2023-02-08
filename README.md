@@ -2,12 +2,12 @@
 
 ### ✍️ Blog Posts
 <!--START_SECTION:blog-feed-->
+#### [Build Standalone Expo .apk and .ipa with Turtle CLI [deprecated]](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
+*This article was updated on February 7, 2023. NOTE: As of Expo SDK 47, the following method does not work any more. With the release of EAS…*
 #### [Optimize your img tags with Eleventy Image and WebC](https:&#x2F;&#x2F;www.robincussol.com&#x2F;optimize-your-img-tags-with-eleventy-image-and-webc&#x2F;) 
 *I am very excited about WebC and couldn’t wait to try out the corresponding Eleventy plugin. The first use-case I had in mind was to use…*
 #### [Year in Review: 2021](https:&#x2F;&#x2F;www.robincussol.com&#x2F;year-in-review-2021&#x2F;) 
 *We’re already at the start of February 2022, but who says retrospectives need to be done on January 1st?! A lot of things happened in 202…*
-#### [Build Standalone Expo .apk and .ipa with Turtle CLI](https:&#x2F;&#x2F;www.robincussol.com&#x2F;build-standalone-expo-apk-ipa-with-turtle-cli&#x2F;) 
-*This article was updated on January 21, 2022. A great way to start writing React Native applications is to use Expo. You don’t even need to…*
 #### [Python Dependencies for JavaScript Developers](https:&#x2F;&#x2F;www.robincussol.com&#x2F;python-dependencies-for-javascript-developers&#x2F;) 
 *Recently, I needed to update an old Python codebase which had not been touched in 3 years! Of course, the dependencies were so outdated that…*
 #### [How to Download a Brain with Pair Documenting](https:&#x2F;&#x2F;www.robincussol.com&#x2F;download-a-brain-with-pair-documenting&#x2F;) 
